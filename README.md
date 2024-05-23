@@ -1,4 +1,4 @@
-## Hi! It's kinetic 👋
+## Hi! It's Kinetic 👋
 
 I'm a Front-end Developer, interested in dev and design.
 
